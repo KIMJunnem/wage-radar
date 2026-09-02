@@ -1,0 +1,114 @@
+{
+  "updated_at": "2026-09-02",
+  "answers": [
+    {
+      "question": "2026 최저임금은 얼마인가요? 시급·일급·월급",
+      "short_answer": "2026년 적용 최저임금은 시급 10,320원입니다. 8시간 기준 일급은 82,560원, 주 40시간·월 209시간 기준 월 환산액은 2,156,880원입니다.",
+      "url": "https://kimjunnem.github.io/wage-radar/answers/2026-minimum-wage.html",
+      "updated": "2026-09-02",
+      "sources": [
+        "https://www.minimumwage.go.kr/main.do",
+        "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=18144"
+      ]
+    },
+    {
+      "question": "2027 최저임금은 얼마인가요? 시급·월급",
+      "short_answer": "2027년 적용 최저임금은 시급 10,700원으로 고시됐습니다. 8시간 기준 일급 85,600원, 월 209시간 기준 월 환산액은 2,236,300원입니다.",
+      "url": "https://kimjunnem.github.io/wage-radar/answers/2027-minimum-wage.html",
+      "updated": "2026-09-02",
+      "sources": [
+        "https://www.minimumwage.go.kr/minWage/policy/decisionMain.do"
+      ]
+    },
+    {
+      "question": "주휴수당은 언제 받을 수 있나요?",
+      "short_answer": "주휴수당은 근로계약과 실제 근무형태에 따라 판단해야 합니다. 계산할 때는 소정근로시간, 출근 여부, 사업장 상황을 함께 확인해야 하며, 단순히 '주 15시간'만으로 모든 사례가 동일하게 결정되지는 않습니다.",
+      "url": "https://kimjunnem.github.io/wage-radar/answers/weekly-holiday-pay.html",
+      "updated": "2026-09-02",
+      "sources": [
+        "https://www.moel.go.kr/"
+      ]
+    },
+    {
+      "question": "연장근로수당은 몇 배인가요?",
+      "short_answer": "상시근로자 5인 이상 사업장에서는 법정 연장근로에 대해 통상임금의 50% 이상을 가산합니다. 즉 해당 시간의 임금은 통상임금 기준 1.5배로 계산하는 것이 기본입니다.",
+      "url": "https://kimjunnem.github.io/wage-radar/answers/overtime-pay.html",
+      "updated": "2026-09-02",
+      "sources": [
+        "https://1350.moel.go.kr/rtmview.do?id=1000321957"
+      ]
+    },
+    {
+      "question": "야간수당은 몇 시부터 몇 시까지인가요?",
+      "short_answer": "근로기준법상 야간근로는 오후 10시부터 다음 날 오전 6시 사이의 근로입니다. 적용 사업장에서는 통상임금의 50% 이상을 가산합니다.",
+      "url": "https://kimjunnem.github.io/wage-radar/answers/night-pay.html",
+      "updated": "2026-09-02",
+      "sources": [
+        "https://1350.moel.go.kr/rtmview.do?id=1000318760"
+      ]
+    },
+    {
+      "question": "휴일근로수당은 몇 배인가요?",
+      "short_answer": "상시근로자 5인 이상 사업장에서 휴일근로는 8시간 이내에 통상임금의 50%, 8시간 초과분에 100% 이상을 가산하는 기준이 적용됩니다.",
+      "url": "https://kimjunnem.github.io/wage-radar/answers/holiday-pay.html",
+      "updated": "2026-09-02",
+      "sources": [
+        "https://1350.moel.go.kr/rtmview.do?id=1000321112"
+      ]
+    },
+    {
+      "question": "퇴직금은 어떻게 계산하나요?",
+      "short_answer": "퇴직금은 원칙적으로 평균임금 × 30일 × 계속근로일수 ÷ 365 방식으로 계산합니다. 평균임금은 퇴직 사유 발생 전 3개월의 임금총액을 그 기간 총일수로 나누는 것이 기본입니다.",
+      "url": "https://kimjunnem.github.io/wage-radar/answers/severance-pay.html",
+      "updated": "2026-09-02",
+      "sources": [
+        "https://www.moel.go.kr/faq/faqView.do?seqRepeat=89"
+      ]
+    },
+    {
+      "question": "시급으로 월급은 어떻게 계산하나요?",
+      "short_answer": "단순 월급은 시급 × 유급으로 인정되는 월 시간수로 계산합니다. 주 40시간 최저임금 월 환산에는 통상 209시간 기준이 사용되지만, 단시간 근로자는 자신의 소정근로시간과 주휴 등을 따로 계산해야 합니다.",
+      "url": "https://kimjunnem.github.io/wage-radar/answers/hourly-to-monthly.html",
+      "updated": "2026-09-02",
+      "sources": [
+        "https://www.minimumwage.go.kr/main.do"
+      ]
+    },
+    {
+      "question": "이번 달 예상 급여는 어떻게 계산하나요?",
+      "short_answer": "기본급에 주휴·연장·야간·휴일근로 수당을 더해 세전 예상급여를 계산할 수 있습니다. 실제 급여명세서는 회사의 소정근로시간, 통상임금 범위, 4대보험·세금 등에 따라 달라질 수 있습니다.",
+      "url": "https://kimjunnem.github.io/wage-radar/answers/gross-pay.html",
+      "updated": "2026-09-02",
+      "sources": [
+        "https://www.moel.go.kr/"
+      ]
+    },
+    {
+      "question": "급여명세서에서 꼭 확인할 항목은 무엇인가요?",
+      "short_answer": "근로시간, 기본급, 각종 수당, 공제 항목과 실제 지급액을 확인하는 것이 핵심입니다. 특히 야간·연장·휴일근로를 했다면 해당 시간과 수당이 반영됐는지 비교하세요.",
+      "url": "https://kimjunnem.github.io/wage-radar/answers/pay-statement.html",
+      "updated": "2026-09-02",
+      "sources": [
+        "https://www.moel.go.kr/"
+      ]
+    },
+    {
+      "question": "5인 미만 사업장은 수당이 어떻게 다른가요?",
+      "short_answer": "근로기준법의 일부 규정은 상시근로자 5인 이상 사업장에 적용됩니다. 연장·야간·휴일 가산수당을 계산할 때는 사업장 상시근로자 수를 먼저 확인하는 것이 중요합니다.",
+      "url": "https://kimjunnem.github.io/wage-radar/answers/five-employees-rule.html",
+      "updated": "2026-09-02",
+      "sources": [
+        "https://www.moel.go.kr/"
+      ]
+    },
+    {
+      "question": "월급이 맞는지 확인하려면 무엇부터 보나요?",
+      "short_answer": "근로계약서의 시급·소정근로시간을 먼저 확인하고, 실제 출퇴근기록과 급여명세서의 기본급·수당을 순서대로 대조하면 됩니다.",
+      "url": "https://kimjunnem.github.io/wage-radar/answers/salary-checklist.html",
+      "updated": "2026-09-02",
+      "sources": [
+        "https://www.moel.go.kr/"
+      ]
+    }
+  ]
+}
